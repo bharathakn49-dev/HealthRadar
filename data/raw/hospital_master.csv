@@ -1,0 +1,11 @@
+clinic_id,hospital_name,hospital_type,pincode,locality,official_email,address,latitude,longitude,created_at,updated_at
+BLR001,Manipal Hospital Whitefield,Multispeciality Hospital,560078,Whitefield,kirthibs425@gmail.com,ITPL Main Road Whitefield Bengaluru,12.9698,77.7499,2026-04-26,2026-04-26
+BLR002,Aster Women & Children Hospital Whitefield,Speciality Hospital,560078,Whitefield,vibha348naik@gmaill.com,Whitefield Main Road Bengaluru,12.9715,77.7512,2026-04-26,2026-04-26
+BLR003,Sri Sathya Sai Super Speciality Hospital,Super Speciality Hospital,560078,Whitefield,enquiry@srisathyasai.org,EPIP Area Whitefield Bengaluru,12.9854,77.7288,2026-04-26,2026-04-26
+BLR004,Cloudnine Hospital Whitefield,Maternity Hospital,560078,Whitefield,whitefield@cloudninecare.com,Varthur Road Whitefield Bengaluru,12.9687,77.7426,2026-04-26,2026-04-26
+BLR005,Narayana Clinic Whitefield,Clinic,560078,Whitefield,whitefield@narayanahealth.org,Outer Ring Link Whitefield Bengaluru,12.9732,77.7465,2026-04-26,2026-04-26
+BLR006,Sakra Day Care Whitefield,Day Care Hospital,560078,Whitefield,whitefield@sakraworldhospital.com,Hope Farm Junction Whitefield Bengaluru,12.9768,77.7534,2026-04-26,2026-04-26
+BLR007,Vydehi Community Hospital,Teaching Hospital,560078,Whitefield,info@vydehihospital.com,EPIP Zone Whitefield Bengaluru,12.9862,77.7315,2026-04-26,2026-04-26
+BLR008,KR Puram Government Hospital,Government Hospital,570089,KR Puram,notalive2002@gmail.com,Old Madras Road KR Puram Bengaluru,13.0069,77.6952,2026-04-26,2026-04-26
+BLR009,Shree Lakshmi Hospital KR Puram,General Hospital,570089,KR Puram,bharathakn49@gmail.com,TC Palya Main Road KR Puram Bengaluru,13.0245,77.7128,2026-04-26,2026-04-26
+BLR010,East Point Clinic KR Puram,Clinic,570089,KR Puram,care@eastpointclinic.in,Seegehalli Road KR Puram Bengaluru,12.9881,77.7294,2026-04-26,2026-04-26

@@ -1,0 +1,11 @@
+report_id,clinic_id,hospital_name,locality,pincode,disease_type,new_cases_today,severe_cases,admissions,severity_level,higher_than_usual,clustered_cases,common_patient_group,doctor_notes,report_date,reporting_officer,submission_status
+R001,C001,Whitefield Hospital,Whitefield,560066,FEVER,28,6,12,MEDIUM,TRUE,FALSE,Adults,Seasonal fever increase,2026-04-25,Dr. Sharma,Submitted
+R002,C001,Whitefield Hospital,Whitefield,560066,DENGUE,18,5,10,HIGH,TRUE,TRUE,Children,Dengue cluster observed,2026-04-25,Dr. Sharma,Submitted
+R003,C001,Whitefield Hospital,Whitefield,560066,RESPIRATORY,35,8,15,HIGH,TRUE,TRUE,Elderly,Respiratory spike due to pollution,2026-04-25,Dr. Sharma,Submitted
+R004,C002,KR Puram Clinic,KR Puram,560036,FEVER,22,4,9,MEDIUM,TRUE,FALSE,Adults,Viral fever cases rising,2026-04-25,Dr. Reddy,Submitted
+R005,C002,KR Puram Clinic,KR Puram,560036,DENGUE,14,3,7,HIGH,TRUE,TRUE,Children,Dengue spread in locality,2026-04-25,Dr. Reddy,Submitted
+R006,C002,KR Puram Clinic,KR Puram,560036,RESPIRATORY,26,6,11,HIGH,TRUE,FALSE,Elderly,Chronic respiratory cases increasing,2026-04-25,Dr. Reddy,Submitted
+R007,C001,Whitefield Hospital,Whitefield,560066,DIARRHEA,12,2,5,LOW,FALSE,FALSE,Mixed,Food contamination suspected,2026-04-26,Dr. Sharma,Submitted
+R008,C002,KR Puram Clinic,KR Puram,560036,DIARRHEA,9,1,3,LOW,FALSE,FALSE,Mixed,Minor stomach infection cases,2026-04-26,Dr. Reddy,Submitted
+R009,C001,Whitefield Hospital,Whitefield,560066,FEVER,30,7,14,HIGH,TRUE,TRUE,Adults,Continuous fever spike,2026-04-26,Dr. Sharma,Submitted
+R010,C002,KR Puram Clinic,KR Puram,560036,FEVER,25,5,10,MEDIUM,TRUE,FALSE,Adults,Moderate fever increase,2026-04-26,Dr. Reddy,Submitted

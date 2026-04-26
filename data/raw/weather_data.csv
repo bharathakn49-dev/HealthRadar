@@ -1,0 +1,11 @@
+locality,date,temperature,humidity,rainfall,weather_condition,risk_factor
+Whitefield,2026-05-02,30,78%,Moderate,Cloudy,Medium
+Whitefield,2026-05-03,31,80%,Heavy,Rainy,High
+Whitefield,2026-05-04,29,75%,Light,Rainy,Medium
+Whitefield,2026-05-05,32,82%,Heavy,Rainy,High
+Whitefield,2026-05-06,33,70%,None,Sunny,Low
+KR Puram,2026-05-02,31,82%,Heavy,Rainy,High
+KR Puram,2026-05-03,32,85%,Heavy,Rainy,High
+KR Puram,2026-05-04,30,79%,Moderate,Cloudy,Medium
+KR Puram,2026-05-05,33,83%,Heavy,Rainy,High
+KR Puram,2026-05-06,34,72%,None,Sunny,Low

@@ -1,0 +1,11 @@
+locality,date,AQI,PM2_5,PM10,risk_level
+Whitefield,2026-05-02,120,55,110,Medium
+Whitefield,2026-05-03,150,70,130,High
+Whitefield,2026-05-04,110,50,100,Medium
+Whitefield,2026-05-05,165,85,140,High
+Whitefield,2026-05-06,90,40,80,Low
+KR Puram,2026-05-02,140,65,120,High
+KR Puram,2026-05-03,160,80,135,High
+KR Puram,2026-05-04,115,52,105,Medium
+KR Puram,2026-05-05,170,88,145,High
+KR Puram,2026-05-06,95,42,85,Low
